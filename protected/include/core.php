@@ -348,7 +348,7 @@ class Model
         if($force_replace || empty($GLOBALS['instance']['mysql'][$db_config_key]))
         {
             try{
-                $GLOBALS['instance']['mysql'][$db_config_key] = new PDO('mysql:dbname='.$db_config['MYSQL_DB'].';host='.$db_config['MYSQL_HOST'].';port='.$db_config['MYSQL_PORT'], $db_config['MYSQL_USER'], $db_config['MYSQL_PASS'], array(PDO::MYSQL_ATTR_INIT_COMMAND=>'SET NAMES \''.$db_config['MYSQL_CHARSET'].'\''));
+             $GLOBALS['instance']['mysql'][$db_config_key] = new PDO('mysql:dbname='.$db_config['MYSQL_DB'].';host='.$db_config['MYSQL_HOST'].';port='.$db_config['MYSQL_PORT'], $db_config['MYSQL_USER'], $db_config['MYSQL_PASS'], array(PDO::MYSQL_ATTR_INIT_COMMAND=>'SET NAMES \''.$db_config['MYSQL_CHARSET'].'\''));
             }catch(PDOException $e){err('Database Err: '.$e->getMessage());}
         }
         return $GLOBALS['instance']['mysql'][$db_config_key];
