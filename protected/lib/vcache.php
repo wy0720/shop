@@ -61,6 +61,7 @@ class vcache
         {
             $data = explode(',', file_get_contents($cache));
             $expires = (int)$data[1];
+
             if($expires === 0 || $expires - $_SERVER['REQUEST_TIME'] > 0) return unserialize(base64_decode($data[2]));
             $this->delete($key);
         }

@@ -130,6 +130,9 @@ class goods_model extends Model
             $sql = "SELECT {$fields} FROM {$this->table_name} {$where} ORDER BY {$sort} {$limit}";
             return $this->query($sql, $binds);
         }
+
+        var_dump(234234);die;
+        $this->dump_sql($this);
         
         return null;
     }

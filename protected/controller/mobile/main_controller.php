@@ -12,7 +12,6 @@ class main_controller extends general_controller
         $this->recommend = $vcache->goods_model('find_goods', array(array('recommend' => 1), 6), $GLOBALS['cfg']['data_cache_lifetime']);
         
         $this->bargain = $vcache->goods_model('find_goods', array(array('bargain' => 1), 6), $GLOBALS['cfg']['data_cache_lifetime']);
-        
         $this->compiler('index.html');
     }
     
