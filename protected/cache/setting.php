@@ -75,8 +75,8 @@ return array (
   'order_delivery_expires' => '7',
   'user_register_email_verify' => '0',
   'user_review_approve' => '0',
-  'rewrite_enable' => '1',
-  'data_cache_lifetime' => '60',
+  'rewrite_enable' => '0',
+  'data_cache_lifetime' => '7200',
   'goods_fulltext_query' => '0',
   'debug' => '1',
   'rewrite_rule' => 
@@ -92,6 +92,6 @@ return array (
     'index.html' => 'main/index',
     '<c>/<a>.html' => '<c>/<a>',
   ),
-  'encrypt_key' => 'f5202e785aadc5a81c2629e8c3ec6997',
-  'http_host' => 'http://www.shop.com',
+  'encrypt_key' => '03d0b762c2f55cc65f4a5c3c77f6e63a',
+  'http_host' => 'http://shop.lwywangyang.top',
 );
