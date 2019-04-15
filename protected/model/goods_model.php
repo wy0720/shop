@@ -131,7 +131,6 @@ class goods_model extends Model
             return $this->query($sql, $binds);
         }
 
-        var_dump(234234);die;
         $this->dump_sql($this);
         
         return null;

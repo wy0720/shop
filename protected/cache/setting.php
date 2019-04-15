@@ -75,7 +75,7 @@ return array (
   'order_delivery_expires' => '7',
   'user_register_email_verify' => '0',
   'user_review_approve' => '0',
-  'rewrite_enable' => '0',
+  'rewrite_enable' => '1',
   'data_cache_lifetime' => '7200',
   'goods_fulltext_query' => '0',
   'debug' => '1',
