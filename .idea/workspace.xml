@@ -2,7 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd2ab8b2-15e8-4071-bdad-6488fb51ac71" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/data/228b7b6fbf97949dba7afea06464955e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/data/47f1853c1ad8207d5219ba98beea067e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/data/c231100a1d1d121482bd2a11c2293c51.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/data/d9d5e8ba0de239ac987f1f05ccda9d3a.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/034df0404e4a99e78272b513a92ada32.1555169203.article_cate_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/04d3bd2c3f80eba7395268111cfa0a54.1555169203.subscription_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/0536baa02a730bb814e5c2ce920e7881.1555169203.user_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/0f29f017eeb8875aaa3874057c790470.1555169203.optional_type_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/118c900d67d1f5df936a9a894f6cf9e6.1555169203.cate_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/173d2a4979d9ad2d100d47348be8477e.1555169203.admin_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/1a2bc315d720fcc46ba8124e6796561d.1555169203.help_cate_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/24e7e44d3ec97379feb453c1e371414a.1555169203.adv_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/25747dcc025591acb01a80041ff97d60.1555169203.help_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/3656be1f7c19be6d51097e77e1945166.1555169203.role.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/37f817eacdcba48673c327d81f9db9b6.1555169203.goods_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/3864d3a86128413fef08a4fb0d955e0b.1555169203.article_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/3b6e0746a6ba6de8ce62f1ac949a996a.1555169203.user_footprint.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/408ab0f6785b837b8fc23a989e76f286.1555169203.category.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/41cbea3f4f3a35ef8bfc3dc607c8f999.1555169203.account_log_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/4ab8bf77ade4fcab2635c042c72a4cc3.1555169203.cart.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/4b9a9b054b13fd54577457173ca9c873.1555169203.index.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/5730cb81785289b5a953613c2112ee13.1555169203.meta.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/5c4a79efed2330b9f93304d146b6a668.1555169203.paging.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/5d479775a324fcfac68e414736b4eda6.1555169203.footer.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/5dc645c2bc672406bcac288025feccf7.1555169203.panel.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/64302986dd3f80287a126202823a6443.1555169203.meta.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/64eae531675fe3584e546458a3f31adb.1555169203.search.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/6a7d82d57a26c0c8e62dee12460d1deb.1555169203.article_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/6e257c67438cfd005623c2358003e1d0.1555169203.index.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/76c02f2c9240549d3766a7f499d5195b.1555169203.brand_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/774c9b1acea9d61053d03864832c1887.1555169203.prompt.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/8746825afb36a4ce74fcfbfdc4dcb58b.1555169203.optional_type.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/8efdf89e26750141bf92889886f00639.1555169203.header.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/95d95ca67c41c897d70224b1d1fa591f.1555178072.index.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/97e31fe28a72d6888858bfa253b81c9d.1555169203.role_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/99629c86a2854d7be739631eb65abf20.1555169203.admin.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/9a04c7613418a7ad3eab96396248d2ee.1555169203.dashboard.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/9ab0f3fa59020e5d35103383ee227758.1555169203.goods_attr.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/a693b2ca64d37fad8a29facbac4a60a3.1555169203.topper.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/aa3a38b2558f229d24009bdb62b73aaf.1555169203.cate.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/ab62198cbfdcaaba61e112b20576fbc7.1555169203.login.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/b4e73509634e013e2d98c9c6f7f4a988.1555169203.footer.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/c07ef950e538242020ac1601dc6a2eda.1555169203.goods.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/c1a757e3fe29db8e6063b3badd31ef3d.1555169203.goods_upload.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/c3217dd50678c9ddb53c3bcdbf8c4f5c.1555169203.goods_related.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/cb8b6936926022c7b908ffbd0573e7c0.1555169203.helper.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/ceeaee3897cb262374fe3058db7c4fd1.1555169203.review_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/d764dc78a9618cf1bfd8cb94011c4bc0.1555169203.group_list.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/dd853d2871ada4542f4bd7a63d9fbe63.1555169203.goods.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/df5dfb0415938597a6cbddf4baf03b58.1555169203.position.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/e236000c375efa16bc339f2595a0a289.1555169203.searcher.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/ecc95b314fccf196fa02a4df00ad9c12.1555169203.catebar.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protected/cache/template/fa01eddac0a4df79ee189fee4ad85f58.1555169203.position_list.html.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,16 +75,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="136" lean-forward="false" selection-start-line="11" selection-start-column="136" selection-end-line="11" selection-end-column="136" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/view/mobile/default/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1377">
-              <caret line="81" column="10" lean-forward="false" selection-start-line="81" selection-start-column="10" selection-end-line="81" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -105,11 +147,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/cache/data/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/protected/cache/template/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -146,6 +208,8 @@
         <option value="$PROJECT_DIR$/protected/cache/setting.php" />
         <option value="$PROJECT_DIR$/protected/config.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/protected/cache/data/.gitignore" />
+        <option value="$PROJECT_DIR$/protected/cache/template/.gitignore" />
       </list>
     </option>
   </component>
@@ -335,18 +399,18 @@
       <option name="presentableId" value="Default" />
       <updated>1555170634934</updated>
       <workItem from="1555170636313" duration="7243000" />
-      <workItem from="1555337858017" duration="2174000" />
+      <workItem from="1555337858017" duration="2392000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9417000" />
+    <option name="totallyTimeSpent" value="9635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24670571" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24670571" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -729,6 +793,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="7" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/cache/data/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/cache/template/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
           <folding />
         </state>
       </provider>
